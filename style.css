@@ -1,0 +1,140 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: #E4F9F5;
+    width: 100%;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+.mountain {
+    width: 65%;
+
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #66BFBF;
+}
+
+h2 span {
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: #66BFBF;
+}
+
+.cloud1 {
+    position: absolute;
+    left: 790px;
+    top: 50px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 260px;
+    top: 370px;
+}
+
+.content {
+    text-align: center;
+}
+
+.p-pic {
+    border-radius: 50%;
+    padding-top: 50px;
+    border-width: 10px;
+}
+
+.content p {
+    width: 30%;
+    margin: auto;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+
+hr {
+    border: dotted #307777 6px;
+    width: 4%;
+    border-bottom: none;
+}
+
+.my_skills p{
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+
+.skill1 {
+    /* background-color: aquamarine; */
+    width: 50%;
+    text-align: left;
+    margin: 50px auto;
+}
+
+.skill1 .logo{
+    margin-right: 20px;
+    float: left;
+}
+
+.skill2 {
+    /* background-color: aqua; */
+    width: 50%;
+    text-align: left;
+    margin: 25px auto;
+}
+
+.skill2 .logo{
+    margin-right: 50px;
+    float: right;
+}
+
+.contact p {
+    width: 40%;
+    margin: 20px auto 50px;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+.btn {
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: 50px;
+    padding: 50px 0 20px;
+    background-color: #66bfbf;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #eaf6f6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin: 10px 20px;
+}
+.copyright{
+    font-family: Merriweather, serif;
+    color: white;
+    font-size: small;
+    margin: 50px auto;
+}
